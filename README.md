@@ -2,7 +2,7 @@
 
 <b>Introduction -</b>
 <br>
-Hii all, my name is Shriyash Thakare, As our PG Project we have selected topic of "Society Management System". </br>
+Hii all, my name is Falguni Tikam, As our PG Project we have selected topic of "Society Management System". </br>
 
 <b> Project Objective -</b>
 The objective of a plagiarism checker is to identify instances of plagiarism in a given text by comparing it to a vast database of existing content. The primary goals of a plagiarism checker are:
